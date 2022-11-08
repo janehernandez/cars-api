@@ -1,19 +1,4 @@
 # CARS-API
-
-## Build Setup
-
-```bash
-run sql in DB FOLDER
-
-# install dependencies
-$ npm install
-
-# serve with hot reload at localhost:specified port
-$ nodemon src
-```
-
-## About the Project
-
 Cars Api is an API that gets the list of cars, it contains 4 API methods
 
 - GET
@@ -22,3 +7,13 @@ Cars Api is an API that gets the list of cars, it contains 4 API methods
 - DELETE
 
 `to access the API on postman: http://localhost:<<PORT>>/cars`
+
+## Build Setup
+
+```bash
+# install dependencies
+$ npm install
+
+# serve with hot reload at localhost:specified port
+$ nodemon src
+```
